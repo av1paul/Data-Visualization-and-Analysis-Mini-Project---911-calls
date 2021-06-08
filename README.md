@@ -1,4 +1,4 @@
-Visualizing and analyzing some 911 call dataset from Kaggle. The data contains the following fields:
+Visualizing and analyzing the 911 call dataset from Kaggle. The data contains the following fields:
 
 lat : String variable, Latitude
 lng: String variable, Longitude
