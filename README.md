@@ -1,1 +1,11 @@
-# Data-Visualization-and-Analysis-Mini-Project---911-calls
+Visualizing and analyzing some 911 call dataset from Kaggle. The data contains the following fields:
+
+lat : String variable, Latitude
+lng: String variable, Longitude
+desc: String variable, Description of the Emergency Call
+zip: String variable, Zipcode
+title: String variable, Title
+timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+twp: String variable, Township
+addr: String variable, Address
+e: String variable, Dummy variable (always 1)
